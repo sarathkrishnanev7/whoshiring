@@ -4,8 +4,8 @@ type HiringCardProps = {
     posted: string;
     summary: string;
     skills: string[];
-    experience: string;
-    location: string;
+    experience: string|null;
+    location: string|null;
     linkedinUrl: string;
   };
   
@@ -41,8 +41,8 @@ type HiringCardProps = {
         </p>
         
         <div className="mt-2 flex flex-wrap gap-3 text-sm text-gray-600">
-  <span>💼 {experience}</span>
-  <span>📍 {location}</span>
+  {experience && <span>💼 {experience}</span>}
+  {location && <span>📍 {location}</span>}
 </div>
 
         
