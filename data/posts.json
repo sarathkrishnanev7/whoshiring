@@ -248,5 +248,58 @@
     "location": "Bangalore",
     "applyLink": "",
     "linkedinUrl": "https://www.linkedin.com/posts/balakumaranpanneerselvam_im-hiring-for-a-technical-solutions-engineer-share-7480554578564882433-mCxG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA5pWW0B2DtfaMPAd_VJHurTEKv3wxKSZCk"
+  },
+  {
+    "id": 18,
+    "role": "Lead Engineer – 2 - IT Infrastructure and Operations",
+    "company": "PepsiCo",
+    "hiringManager": "Asrar Ul Haq",
+    "postedDate": "2026-07-09",
+    "summary": "Hiring a Lead Engineer for IT Infrastructure and Operations at PepsiCo.",
+    "skills": [
+      "IT Infrastructure",
+      "IT Operations"
+    ],
+    "experience": null,
+    "location": "Hyderabad",
+    "applyLink": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/asrarhaq_hiring-ugcPost-7480955739340189696-ldjZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA5pWW0B2DtfaMPAd_VJHurTEKv3wxKSZCk"
+  },
+  {
+    "id": 19,
+    "role": "Operations Manager - IT",
+    "company": "The Procter & Gamble Company",
+    "hiringManager": "Angarish Otta",
+    "postedDate": "2026-07-09",
+    "summary": "Hiring an IT Operations Manager with opportunities in data and product management.",
+    "skills": [
+      "IT Operations",
+      "Data Management",
+      "Product Management",
+      "Operations Management"
+    ],
+    "experience": null,
+    "location": "Bhiwadi",
+    "applyLink": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/angarishotta_we-are-hiring-inviting-interested-talents-share-7480978793692770304-roDZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA5pWW0B2DtfaMPAd_VJHurTEKv3wxKSZCk"
+  },
+  {
+    "id": 20,
+    "role": "Sr Finance Executive",
+    "company": "Unilever",
+    "hiringManager": "Shalini A.",
+    "postedDate": "2026-07-07",
+    "summary": "Hiring Sr. Finance Executives across multiple locations for Unilever.",
+    "skills": [
+      "Financial Analysis",
+      "Accounting",
+      "CA",
+      "CMA",
+      "MBA Finance"
+    ],
+    "experience": "0–3 years",
+    "location": "Mysore | Pondicherry | Silvassa | Gandhipuram",
+    "applyLink": "",
+    "linkedinUrl": "https://www.linkedin.com/posts/shalini-a-52182512_hiring-financejobs-srfinanceexecutive-share-7480207851387396097-61po/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA5pWW0B2DtfaMPAd_VJHurTEKv3wxKSZCk"
   }
 ]
