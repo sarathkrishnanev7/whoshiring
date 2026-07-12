@@ -33,11 +33,12 @@ export default function Home() {
         <h1 className="text-3xl font-bold text-[#0A66C2]">
           LinkedIn Posts from Hiring Managers
         </h1>
-        <p className="mt-2 text-sm leading-6 text-gray-600">
-        These hiring managers have publicly shared what they're looking for. 
-        Read what they're looking for, send them a DM explaining why you're a strong fit.
-        Increase your chances of getting an interview call.
-  </p>
+        <ul className="mt-2 list-disc pl-5 text-sm leading-6 text-gray-600 space-y-2">
+    <li>Hiring managers have publicly shared what they're looking for.</li>
+  <li>Read the job post to understand the role and requirements.</li>
+  <li>Send a personalized LinkedIn DM explaining why you're a strong fit.</li>
+  <li>Increase your chances of getting an interview call.</li>
+</ul>
         <SearchBar
   search={search}
   setSearch={setSearch}
