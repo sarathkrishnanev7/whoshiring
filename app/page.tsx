@@ -34,10 +34,9 @@ export default function Home() {
           LinkedIn Posts from Hiring Managers
         </h1>
         <p className="mt-2 text-sm leading-6 text-gray-600">
-        Don't just click Apply and hope for the best. 
-        Many roles receive hundreds of applications. 
         These hiring managers have publicly shared what they're looking for. 
-        Read what they're looking for, then send a thoughtful message explaining why you're a strong fit.
+        Read what they're looking for, send them a DM explaining why you're a strong fit.
+        Increase your chances of getting an interview call.
   </p>
         <SearchBar
   search={search}
