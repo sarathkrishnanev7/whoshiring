@@ -31,9 +31,14 @@ export default function Home() {
     <main className="min-h-screen bg-[#F3F2EF]">
       <div className="mx-auto max-w-md px-4 py-6">
         <h1 className="text-3xl font-bold text-[#0A66C2]">
-          Who's Hiring
+          LinkedIn Posts from Hiring Managers
         </h1>
-
+        <p className="mt-2 text-sm leading-6 text-gray-600">
+        Don't just click Apply and hope for the best. 
+        Many roles receive hundreds of applications. 
+        These hiring managers have publicly shared what they're looking for. 
+        Read what they're looking for, then send a thoughtful message explaining why you're a strong fit.
+  </p>
         <SearchBar
   search={search}
   setSearch={setSearch}
